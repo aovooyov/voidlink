@@ -12,6 +12,16 @@ EVE VoidLink is a comprehensive tool for capsuleers, integrating the functionali
 - Mac
 - Web
 
+## Website
+Visit the official VoidLink website: [https://voidlink.space](https://voidlink.space)
+
+## Contact
+
+For inquiries, feel free to reach out:
+
+- **Email**: [sa@voidlink.cyou](mailto:sa@voidlink.cyou)
+- **Telegram**: Coming soon
+
 ## License
 
 This project is licensed under the terms of the [All Rights Reserved License](LICENSE).
